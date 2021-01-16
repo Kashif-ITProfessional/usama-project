@@ -1,0 +1,11 @@
+git config --global user.email "kashifshafiq1@gmail.com" kashejan15
+git config --global user.name "kashif-ITProfessional"
+
+git init
+git add -A
+git status
+git commit -m "enter your commit here"
+git remote add origin  [repositery link here]
+git push origin master
+git clone [repositery link here]
+git pull origin master
